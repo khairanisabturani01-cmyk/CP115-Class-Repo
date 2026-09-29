@@ -1,2 +1,12 @@
-# Placeholder file so the labs/lab02 folder exists.
-# Save your Flowgorithm files (lab-2.fprg, exercise-1.fprg ... exercise-5.fprg) in this folder.
+print(f"Name: Ahmad Bin Abu\t\t\t\tMatric.\tNo: MS2025123499\n")
+print(f"*\t\t\t*")
+print(f"**\t\t**")
+print(f"****\t****")
+print(f"********")
+print(f"****\t****")
+print(f"**\t\t**")
+print(f"*\t\t\t*\n\n")
+print(f"This\tis\tmy")
+print(f"\t\tsecond")
+print(f"\t\t\tassignment")
+print(f"I want 2x10 marks, which is 20 full marks")
